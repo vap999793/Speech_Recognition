@@ -1,1 +1,4 @@
-# Speech_Recognizer
+# Speech_Recognition
+
+Voice to text conversion by using Python
+In this small project there is a small code to clear the basics.
